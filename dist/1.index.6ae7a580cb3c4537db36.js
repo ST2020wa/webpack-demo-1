@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{8:function(n,o,c){"use strict";function t(){console.log("I am a lazy加载")}c.r(o),c.d(o,"default",(function(){return t}))}}]);
